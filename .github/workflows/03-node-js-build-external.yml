@@ -1,4 +1,4 @@
-name: 03-node-js-build-external-Prueba
+name: 03-node-js-build-external-Prueba-Pruebita
 on:
   push:
     branches: [ "main" ]
